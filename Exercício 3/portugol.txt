@@ -1,0 +1,73 @@
+programa{
+
+            logico programaCerto = false;
+            caractere nome;
+            inteiro idade = 0;
+            inteiro salario = 0;
+            caractere estadoCivil;
+
+            funcao inicio(){
+                
+            enquanto (programaCerto == false)
+            {
+                escreva("Digite o seu nome");
+                nome = leia();
+
+                escreva("Digite a sua idade");
+                idade = leia(leia());
+
+                escreva("Digite o seu salário");
+                salario = leia(leia());
+
+                escreva("Digite o seu Estado Civil");
+                estadoCivil = leia();
+
+                se (nome == "")
+                {
+                    escreva("Seu nome é inválido ou nulo, digite novamente");
+                }
+
+                se (idade > 150)
+                {
+                    escreva("Você é algum parente de Moisés, tente novamente");
+                }
+
+                se (idade < 0)
+                {
+                    escreva("Você não nasceu ainda, aguarde uns anos");
+                }
+
+                se (salario < 0)
+                {
+                    escreva("Seu salário é menor que 0, tá tenso");
+                }
+
+                senao (estadoCivil == "s")
+                {
+                    escreva("Solteiro(a)");
+                }
+
+                senao (estadoCivil == "c")
+                {
+                    escreva("Casado(a)");
+                }
+
+                senao (estadoCivil == "v")
+                {
+                    escreva("Viúvo(a)");
+                }
+
+                senao (estadoCivil == "d")
+                {
+                    escreva("Divorciado(a)");
+                }
+
+                senao
+                {
+                    escreva("Você digitou a uma letra errada, tente novamente");
+                }
+
+                programaCerto = true;
+            }
+        }
+    }

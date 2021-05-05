@@ -1,0 +1,22 @@
+programa {
+                logico notaCorreta = false;
+                inteiro nota = leia(leia());
+
+
+            enquanto (notaCorreta == false)
+            {
+                escreva("Escreva uma nota de 0 a 10: ");
+
+                se (nota <= 10)
+                {
+                    escreva("Sua nota é válida! Boa");
+                    notaCorreta = true;
+                }
+                senao
+                {
+                    escreva("Sua nota é inválida, tente novamente.");
+                }
+            }
+
+}                
+                

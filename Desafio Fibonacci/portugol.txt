@@ -1,0 +1,19 @@
+programa {
+
+            inteiro num0 = 0;
+            inteiro num1 = 1;
+            inteiro counter = 14;
+
+            funcao inicio(){
+
+            para (int i = 0; i < counter; i++)
+            {
+                inteiro temp = num0;
+                num0 = num1;
+                num1 = temp + num1;
+                escreva(num0 + "");
+            }
+
+        }
+
+}

@@ -1,0 +1,29 @@
+programa {
+            logico senhaCerta = false;
+            caractere nome;
+            caractere senha;
+
+            funcao inicio(){
+
+            enquanto (senhaCerta == false)
+            {
+                escreva("Digite um nome:\n");
+                nome = leia();
+
+                escreva("Digite uma senha\n");
+                senha = leia();
+
+                se (senha != nome)
+                {
+                    escreva("Cadstro completo!");
+                    senhaCerta = true;
+                }
+
+                senao
+                {
+                    escreva("Sua senha é igual ao seu nome, coloque outra senha");
+                }
+            }
+        }
+
+}

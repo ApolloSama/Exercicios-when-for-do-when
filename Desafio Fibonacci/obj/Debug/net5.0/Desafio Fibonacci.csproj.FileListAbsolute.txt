@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.exe
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.deps.json
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.runtimeconfig.json
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.dll
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\ref\Desafio Fibonacci.dll
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\bin\Debug\net5.0\Desafio Fibonacci.pdb
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.dll
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\ref\Desafio Fibonacci.dll
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.pdb
+C:\Users\Pedro\Desktop\C#\Exercícios dia 5\Desafio Fibonacci\obj\Debug\net5.0\Desafio Fibonacci.genruntimeconfig.cache
